@@ -20,7 +20,16 @@ Hier laat ik mijn wireflow schets zien van de chat formulier die ik wil gaan mak
 ![20231204_124659](https://github.com/Akikosophia/fix-the-flow-wireflow/assets/144008863/78c69829-6de8-488f-a64b-7a6b63809b40)
 
 
-Hier laat ik de stappen zien die de gebruiker moet doorlopen om te kunnen bereiken wat ze willen doen
+Hier laat ik de stappen zien die de gebruiker moet doorlopen:
+
+Scherm 1 Ga naar de chat button 
+stap 1 je drukt op de chat button
+
+Scherm 2 Ga naar het formulier 
+stap 2 vul je naam en e-mail adres in en druk op start de chat
+
+Scherm 3 Ga naar de typ balk 
+stap 3 en typ hier de vraag die je wilt stellen
 
 
 ## Licentie
