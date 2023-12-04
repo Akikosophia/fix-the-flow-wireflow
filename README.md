@@ -22,14 +22,11 @@ Hier laat ik mijn wireflow schets zien van de chat formulier die ik wil gaan mak
 
 Hier laat ik de stappen zien die de gebruiker moet doorlopen:
 
-Scherm 1 Ga naar de chat button 
-stap 1 je drukt op de chat button
+Scherm 1: ga naar de chat button Stap 1 je drukt op de chat button
 
-Scherm 2 Ga naar het formulier 
-stap 2 vul je naam en e-mail adres in en druk op start de chat
+Scherm 2: ga naar het formulier Stap 2 vul je naam en e-mail adres in en druk op start de chat
 
-Scherm 3 Ga naar de typ balk 
-stap 3 en typ hier de vraag die je wilt stellen
+Scherm 3: ga naar de typ balk Stap 3 en typ hier de vraag die je wilt stellen
 
 
 ## Licentie
