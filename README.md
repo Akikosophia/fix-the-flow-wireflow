@@ -17,8 +17,7 @@ Ik ga een chat formulier maken voor de gebruiker om makkelijker vragen te kunnen
 
 Hier laat ik mijn wireflow schets zien van de chat formulier die ik wil gaan maken voor de website van Funda
 
-![20231204_124659](https://github.com/Akikosophia/fix-the-flow-wireflow/assets/144008863/78c69829-6de8-488f-a64b-7a6b63809b40)
-
+![20231204_132142](https://github.com/Akikosophia/fix-the-flow-wireflow/assets/144008863/c57a8370-e0ea-4150-97ab-64d2b8e90703)
 
 Hier laat ik de stappen zien die de gebruiker moet doorlopen:
 
