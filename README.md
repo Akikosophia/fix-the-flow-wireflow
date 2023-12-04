@@ -20,7 +20,7 @@ Hier laat ik mijn wireflow schets zien van de chat formulier die ik wil gaan mak
 ![20231204_124659](https://github.com/Akikosophia/fix-the-flow-wireflow/assets/144008863/78c69829-6de8-488f-a64b-7a6b63809b40)
 
 
-Hier laat ik de stappen zien die de gebruiker moet doorlopen
+Hier laat ik de stappen zien die de gebruiker moet doorlopen om te kunnen bereiken wat ze willen doen
 
 
 ## Licentie
